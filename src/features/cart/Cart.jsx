@@ -1,3 +1,4 @@
+import Button from '../../ui/Button';
 import LinkButton from '../../ui/LinkButton';
 const fakeCart = [
   {
