@@ -1,5 +1,5 @@
-function UseerName() {
-  return <div className="text-sm font-semibold">Pitachiti</div>;
+function UserName() {
+  return <div className="hidden text-sm font-semibold">Pitachiti</div>;
 }
 
-export default UseerName;
+export default UserName;
